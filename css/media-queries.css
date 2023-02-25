@@ -1,0 +1,17 @@
+/* THE DESKTOP SETTINGS */
+/* Above 700px */
+
+/* @media (min-width: 700px) {
+  .section-card-feature {
+    max-width: 1440px;
+    background: #fafafa;
+    /* background-color: red; */
+    padding: 165px 80px;
+
+    /* The Grid Template */
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 25px;
+  }
+} */
