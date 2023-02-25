@@ -9,7 +9,7 @@
   .section-card-feature {
     max-width: 1100px;
     background: #fafafa;
-    margin: 165px 80px;
+    margin: 80px 165px;
 
     /* The Grid Template */
     display: grid;
