@@ -10,9 +10,9 @@ Welcome to my solution page. I hope you'll find some good implemantions for this
 
 ## Links
 
-- [My Live Site](My-live-site-in-github.io)
+- [My Live Site](https://adonmez04.github.io/four-card-feature-section-v1.0/)
 
-- [My Solution Page](My-Project-Page-in-frontendmentor.io)
+- [My Solution Page](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
 
 - [The Challenge Page](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
